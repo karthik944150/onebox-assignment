@@ -1,0 +1,147 @@
+.login-page-container {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  background-color: #000;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.website-logo {
+  width: 200px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.under-line {
+  width: 100%;
+  color: #fff;
+}
+
+.login-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1, 440px;
+  height: Fixed 663px;
+  padding: 59px 29px 59px 29px;
+  gap: 150px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: Fixed 460px;
+  height: Hug 312px;
+  padding: 24px 40px 40px 40px;
+  gap: 48px;
+  border-radius: 17px;
+
+  opacity: 0px;
+  border: 1px solid var(--Border-1, #343a40);
+}
+
+.form-header {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 31px;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 1px;
+}
+
+.google-sign-button {
+  width: Fill 380pxpx;
+  height: Hug 48px;
+  padding: 8px 16px 8px 16px;
+  gap: 10px;
+  border-radius: 4px 0px 0px 0px;
+  border: 0.5px solid #fff;
+  opacity: 0px;
+  font-family: Open Sans;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+  line-height: 26.1px;
+  letter-spacing: -0.30000001192092896px;
+  text-align: center;
+
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  color: #cccccc;
+  font-size: 15px;
+}
+
+.google-logo {
+  width: 20px;
+}
+
+.create-account-button {
+  width: Hug 170px;
+  height: Hug 48px;
+  padding: 13px 35px 13px 35px;
+  gap: 10px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+  background-color: rgb(49, 10, 244);
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 21.7px;
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.sign-message {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24.8px;
+  text-align: center;
+  color: #909296;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.sign-in {
+  color: #fff;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24.8px;
+  text-align: center;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-self: center;
+  text-align: center;
+
+  font-family: Open Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18.6px;
+  color: #cccccc;
+}

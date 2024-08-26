@@ -1,0 +1,70 @@
+.primary-nav {
+  display: flex;
+  flex-direction: column;
+
+  width: Hug 56px;
+  height: Fixed 760px;
+  padding: 0px 4px 0px 4px;
+  gap: 0px;
+  border: 0px 1px 0px 0px;
+  opacity: 0px;
+  background: #101113;
+  border-right: 1px solid #343a40;
+}
+
+.logo-holder {
+  width: Fixed 48px;
+  height: Fixed 70px;
+  padding: 8px 12px 12px 12px;
+  gap: 0px;
+  border-radius: 2px 0px 0px 0px;
+  opacity: 0px;
+  color: #fff;
+}
+
+.menu-conainer {
+  width: Fill 48px;
+  height: Fixed 634px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.left-panel-top {
+  width: Fill 48px;
+  height: Fixed 645px;
+  padding: 16px 8px 16px 8px;
+  gap: 24px;
+  opacity: 0px;
+  list-style-type: none;
+}
+
+.frame {
+  width: Hug 28px;
+  height: Fixed 546px;
+  gap: 32px;
+  opacity: 0px;
+  color: #aeaeae;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.user-profile {
+  display: flex;
+  align-self: flex-end;
+  width: Hug 48px;
+  height: Hug 56px;
+  gap: 10px;
+  opacity: 0px;
+}
+
+.profile-img {
+  width: Fixed 48px;
+  height: Hug 56px;
+  padding: 12px 8px 12px 8px;
+  gap: 0px;
+  color: #fff;
+  opacity: 0px;
+  background-color: green;
+  border-radius: 30px;
+  font-size: 15px;
+}

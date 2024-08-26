@@ -1,0 +1,74 @@
+.one-box-container {
+  display: flex;
+  width: 1440px;
+  height: 760px;
+  top: 1916px;
+  left: 1124px;
+  gap: 0px;
+  opacity: 0px;
+  background: #000000;
+}
+
+.frame-nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1375px;
+  height: Fixed 64px;
+  top: 3px;
+  left: 57px;
+  padding: 24px 0px 0px 0px;
+  gap: 24px;
+  border: 1px 1px 1px 0px;
+  opacity: 0px;
+  background: #1f1f1f;
+  border-width: 1px, 1px, 1px, 0px;
+
+  border-style: solid;
+
+  border-color: #343a40;
+  box-shadow: 0px -186px 120px 0px #2527381a inset;
+}
+
+.body-section {
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21.79px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 20px;
+}
+
+.content-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.mail {
+  color: #fff;
+}
+
+.failure-data {
+  color: #fff;
+}
+
+.all-inboxes {
+  display: flex;
+  flex-direction: column;
+  border: solid 1px #fff;
+  height: 760px;
+  width: 400px;
+}
+.orldo-section {
+  display: flex;
+  flex-direction: column;
+  border: solid 1px #fff;
+  width: 400px;
+   height: 760px;
+}
